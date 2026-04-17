@@ -1,6 +1,6 @@
 ## Pipeline Block Diagram
 
-![RV32I Pipeline](images/riscv_pipeline.png)
+![RV32I Pipeline](riscv_pipeline.png)
 
 ---
 
